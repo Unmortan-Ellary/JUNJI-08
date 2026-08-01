@@ -11,8 +11,8 @@
 
 ### Features: 
 
-1. **VIP:**
-VIP.
+1. **WIP:**
+WIP.
 
 ### License
 
