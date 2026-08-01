@@ -9,6 +9,6 @@
 1. **WIP:**
 WIP.
 
-### License
+### License:
 
 Apache 2.0 License.
