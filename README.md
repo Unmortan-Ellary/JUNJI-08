@@ -1,2 +1,18 @@
 # JUNJI-08
-8-Voice Polyphonic Analog Modeling Synthesizer (Single HTML file via `Web Audio API` and `Web MIDI API`) based on KORG Minilogue. With classic interface design, two powerful Sequencers with Automation, lush Reverb etc.
+
+### Core Ideas:
+- **Simplicity:** Easy to understand interface, curated features with "less is more" ideology.
+- **Dependency-Free:** No downloads, no Python, no Node.js - just a single compact (100~ kb) HTML file that runs in your browser.
+- **Open Source:** under the Apache 2.0 License.
+
+### What's new?
+- v0.601 Release.
+
+### Features: 
+
+1. **VIP:**
+VIP.
+
+### License
+
+Apache 2.0 License.
