@@ -1,4 +1,5 @@
 # JUNJI-08
+<img width="1215" height="947" alt="image" src="https://github.com/user-attachments/assets/0ee2e7d0-a6b7-4503-b000-e2e9eccf489f" />
 
 ### Core Ideas:
 - **Simplicity:** Easy to understand interface, curated features with "less is more" ideology.
