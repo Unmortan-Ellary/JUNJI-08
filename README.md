@@ -1,4 +1,4 @@
-# JUNJI-08
+# // JUNJI - 08
 <img width="1217" height="946" alt="image" src="https://github.com/user-attachments/assets/0e586b30-309a-4390-9d95-89287c928fc9" />
 
 ### What's new?
