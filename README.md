@@ -15,7 +15,11 @@
 
 ### Features:
 
-1. **WIP:**
+1. **Oscillators:**
+- Two oscillators each uses `Sine`, `Triangle`, `Sawtooth`, `Square` waveforms. 
+- Wavefolding as `Shape`, 
+
+2. **WIP:**
 WIP
 
 ### License:
