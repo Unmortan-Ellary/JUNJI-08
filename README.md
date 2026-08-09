@@ -22,7 +22,7 @@
 - `Octave` and `Coarse` pitch controls.
 - Mixer with `White Noise` and `OSC1` and `OSC2` levels.
 
-3. **Filter:**
+2. **Filter:**
 - `2-Pole` or `4-Pole` modes.
 - `20-20k` Cutoff range.
 - Resonance without Self-Oscillation. 
