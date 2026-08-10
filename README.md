@@ -29,7 +29,11 @@
 - Pre-Filter `Drive` based on aggressive Wavefolding.
 - Supports `Velocity TO Cutoff` and `Key-Tracking TO Cutoff` functions.
 
-3. **WIP:**
+3. **Envelopes:**
+- `AMP ENV` - Classic volume control ADSR Envelope.
+- `MOD ENV` - Custom ADSR Envelope control for different Targets: `Mod TO Pitch`, `Mod TO Shape`, `Mod TO Cutoff`, `Mod TO Resonance`.
+
+4. **WIP:**
 WIP
 
 ### License:
