@@ -33,7 +33,11 @@
 - `AMP ENV` - Classic volume control ADSR Envelope.
 - `MOD ENV` - Custom ADSR Envelope control for different Targets: `Mod TO Pitch`, `Mod TO Shape`, `Mod TO Cutoff`, `Mod TO Resonance`.
 
-4. **WIP:**
+4. **Delay:**
+- Include `High-Pass Filter`, signal can be `PRE-Filtered` or `POST-Filtered`, `20-20k` Cutoff range.
+- Controls `Mix`, `Time`, `Feedback` to form any type of delay behavior.
+
+5. **WIP:**
 WIP
 
 ### License:
