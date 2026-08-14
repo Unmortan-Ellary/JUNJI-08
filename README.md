@@ -37,7 +37,11 @@
 - Include `High-Pass Filter`, signal can be `PRE-Filtered` or `POST-Filtered`, `20-20k` Cutoff range.
 - Controls `Mix`, `Time`, `Feedback` to form any type of delay behavior.
 
-5. **WIP:**
+5. **Reverb:**
+- Designed to imitate wide spaces with dynamic reflections, creating a lush textures.
+- Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
+
+6. **WIP:**
 WIP
 
 ### License:
