@@ -41,7 +41,15 @@
 - Designed to imitate wide spaces with dynamic reflections, creating a lush textures.
 - Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
 
-6. **WIP:**
+6. **Miscellaneous:**
+- Keyboard velocity support via `Vel TO Amp` Knob.
+- Two `128-Step` Sequencers with Automation.
+- Virtual Keyboard with Octave selection.
+- Wide Stereo Voice `Spread` Function.
+- `Glide` From Note to Note Function.
+- `Transpose` Note Function.
+
+7. **WIP:**
 WIP
 
 ### License:
