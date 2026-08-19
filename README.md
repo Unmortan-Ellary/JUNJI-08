@@ -18,47 +18,47 @@
 1. **Oscillators:**
     - Two classic oscillators.
     - `Sine`, `Triangle`, `Sawtooth`, `Square` waveforms with Wavefolding control as `Shape`.
-- Second Oscillator supports `Cross-Mod`, `Hard-Sync Mod`, `Ring Mod`.
-- `Octave` and `Coarse` pitch controls.
-- Mixer with `White Noise` and `OSC1` and `OSC2` levels.
+    - Second Oscillator supports `Cross-Mod`, `Hard-Sync Mod`, `Ring Mod`.
+    - `Octave` and `Coarse` pitch controls.
+    - Mixer with `White Noise` and `OSC1` and `OSC2` levels.
 
 2. **Filter:**
-- `2-Pole` or `4-Pole` modes.
-- `20-20k` Cutoff range.
-- Resonance without Self-Oscillation. 
-- Pre-Filter `Drive` based on aggressive Wavefolding.
-- Supports `Velocity TO Cutoff` and `Key-Tracking TO Cutoff` functions.
+    - `2-Pole` or `4-Pole` modes.
+    - `20-20k` Cutoff range.
+    - Resonance without Self-Oscillation. 
+    - Pre-Filter `Drive` based on aggressive Wavefolding.
+    - Supports `Velocity TO Cutoff` and `Key-Tracking TO Cutoff` functions.
 
 3. **Envelopes:**
-- `AMP ENV` - Classic volume control ADSR Envelope.
-- `MOD ENV` - Custom ADSR Envelope control for different Targets: `Mod TO Pitch`, `Mod TO Shape`, `Mod TO Cutoff`, `Mod TO Resonance`.
+    - `AMP ENV` - Classic volume control ADSR Envelope.
+    - `MOD ENV` - Custom ADSR Envelope control for different Targets: `Mod TO Pitch`, `Mod TO Shape`, `Mod TO Cutoff`, `Mod TO Resonance`.
 
 4. **Delay:**
-- Include `High-Pass Filter`, signal can be `PRE-Filtered` or `POST-Filtered`, `20-20k` Cutoff range.
-- Controls `Mix`, `Time`, `Feedback` to form any type of delay behavior.
+    - Include `High-Pass Filter`, signal can be `PRE-Filtered` or `POST-Filtered`, `20-20k` Cutoff range.
+    - Controls `Mix`, `Time`, `Feedback` to form any type of delay behavior.
 
 5. **Reverb:**
-- Designed to imitate wide spaces with dynamic reflections, creating a lush textures.
-- Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
+    - Designed to imitate wide spaces with dynamic reflections, creating a lush textures.
+    - Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
 
 6. **Patch Library:**
-- Support 20 Patch Presets.
-- `Left Mouse Click` to Load Patch, `Right Mouse Click` to Save current Patch.
-- `Export` Saves current Patch as `*.patch` file (Hold `ALT` to Export it to Clipboard).
-- `Import` Loads `*.patch` files (Tries to Load it from Clipboard first).
+    - Support 20 Patch Presets.
+    - `Left Mouse Click` to Load Patch, `Right Mouse Click` to Save current Patch.
+    - `Export` Saves current Patch as `*.patch` file (Hold `ALT` to Export it to Clipboard).
+    - `Import` Loads `*.patch` files (Tries to Load it from Clipboard first).
 
 8. **Miscellaneous:**
-- Keyboard velocity support via `Vel TO Amp` Knob.
-- Two `128-Step` Sequencers with Automation.
-- Virtual Keyboard with Octave selection.
-- Wide Stereo Voice `Spread` Function.
-- `Glide` From Note to Note Function.
-- `Transpose` Note Function.
+    - Keyboard velocity support via `Vel TO Amp` Knob.
+    - Two `128-Step` Sequencers with Automation.
+    - Virtual Keyboard with Octave selection.
+    - Wide Stereo Voice `Spread` Function.
+    - `Glide` From Note to Note Function.
+    - `Transpose` Note Function.
 
 ### Sequencers Guide:
 
 1. **WIP**
-- WIP.
+    - WIP.
 
 ### License:
 
