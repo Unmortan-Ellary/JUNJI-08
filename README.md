@@ -55,8 +55,10 @@
 - `Glide` From Note to Note Function.
 - `Transpose` Note Function.
 
-8. **WIP:**
-WIP
+### Sequencers Guide:
+
+1. **WIP**
+- WIP.
 
 ### License:
 
