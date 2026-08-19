@@ -16,8 +16,8 @@
 ### Features:
 
 1. **Oscillators:**
-- Two classic oscillators.
-- `Sine`, `Triangle`, `Sawtooth`, `Square` waveforms with Wavefolding control as `Shape`.
+    - Two classic oscillators.
+    - `Sine`, `Triangle`, `Sawtooth`, `Square` waveforms with Wavefolding control as `Shape`.
 - Second Oscillator supports `Cross-Mod`, `Hard-Sync Mod`, `Ring Mod`.
 - `Octave` and `Coarse` pitch controls.
 - Mixer with `White Noise` and `OSC1` and `OSC2` levels.
