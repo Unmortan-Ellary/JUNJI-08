@@ -41,7 +41,13 @@
 - Designed to imitate wide spaces with dynamic reflections, creating a lush textures.
 - Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
 
-6. **Miscellaneous:**
+6. **Patch Library:**
+- Support 20 Patch Presets.
+- `Left Mouse Click` to Load Patch, `Right Mouse Click` to Save current Patch.
+- `Export` Saves current Patch as `*.patch` file (Hold `ALT` to Export it to Clipboard).
+- `Import` Loads `*.patch` files (Tries to Load it from Clipboard first).
+
+8. **Miscellaneous:**
 - Keyboard velocity support via `Vel TO Amp` Knob.
 - Two `128-Step` Sequencers with Automation.
 - Virtual Keyboard with Octave selection.
@@ -49,7 +55,7 @@
 - `Glide` From Note to Note Function.
 - `Transpose` Note Function.
 
-7. **WIP:**
+8. **WIP:**
 WIP
 
 ### License:
