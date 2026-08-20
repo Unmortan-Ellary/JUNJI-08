@@ -42,7 +42,7 @@
     - Controls `Mix`, `Time` (controls room size), `Tone` (controls the high-frequency presence).
 
 6. **Patch Library:**
-    - Support 20 Patch Presets.
+    - Supports 20 Patch Presets.
     - `Left Mouse Click` to Load Patch, `Right Mouse Click` to Save current Patch.
     - `Export` Saves current Patch as `*.patch` file (Hold `ALT` to Export it to Clipboard).
     - `Import` Loads `*.patch` files (Tries to Load it from Clipboard first).
