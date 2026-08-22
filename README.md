@@ -47,6 +47,11 @@
     - `Export` Saves current Patch as `*.patch` file (Hold `ALT` to Export it to Clipboard).
     - `Import` Loads `*.patch` files (Tries to Load it from Clipboard first).
 
+7. **MIDI Support:**
+    - Support for `MIDI` Devices via `Web MIDI API`.
+    - Support `MIDI` Mapping for any Control Element.
+    - `Right Mouse Click` on any Knob, Slider, Switch to Assign Custom `CC` on your Device.
+
 8. **Miscellaneous:**
     - Keyboard velocity support via `Vel TO Amp` Knob.
     - Two `128-Step` Sequencers with Automation.
