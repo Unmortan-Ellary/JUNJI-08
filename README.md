@@ -67,7 +67,8 @@
     - Press a `Note` and Release it to Record single `Note`. 
     - Hold `Note` and ADD any amount of `Notes` to Record a Chord.
     - Press `Esc` or `Left Mouse Click` on Glowing `Step` to Cancel `Step Recording`.
-    <img width="1550" height="834" alt="brave_screenshot" src="https://github.com/user-attachments/assets/45839c0e-667e-45ee-afe0-bdc3bb65ca47" />
+    <img width="1550" height="830" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/51677ac3-87c4-4220-8d9d-df8420b7d2c4" />
+
 
 
 ### License:
