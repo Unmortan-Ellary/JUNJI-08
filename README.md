@@ -62,8 +62,13 @@
 
 ### Sequencers Guide:
 
-1. **WIP**
-    - WIP.
+1. **Step Recording:** 
+    - Use `Left Mouse Click` to Select any `Step` as your Starting Point.
+    - Press a `Note` and Release it to Record single `Note`. 
+    - Hold `Note` and ADD any amount of `Notes` to Record a Chord.
+    - Press `Esc` or `Left Mouse Click` on Glowing `Step` to Cancel `Step Recording`.
+    <img width="1550" height="834" alt="brave_screenshot" src="https://github.com/user-attachments/assets/45839c0e-667e-45ee-afe0-bdc3bb65ca47" />
+
 
 ### License:
 
