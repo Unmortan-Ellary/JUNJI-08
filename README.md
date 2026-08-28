@@ -67,9 +67,15 @@
     - Press a `Note` and Release it to Record single `Note`. 
     - Hold `Note` and ADD any amount of `Notes` to Record a Chord.
     - Press `Esc` or `Left Mouse Click` on Glowing `Step` to Cancel `Step Recording`.
+    - Hover with a `Mouse Cursor` over `Step` to get its State Info.
     <img width="1550" height="830" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/51677ac3-87c4-4220-8d9d-df8420b7d2c4" />
 
-
+2. **Step Mods:**
+   - Use `Right Mouse Click` on Recorded `Step` to Mark it as `Rest` for skipping, you can also press `REST` Button durring `Step Recording`.
+   - Use `ALT + Right Mouse Click` on Recorded `Step` to Mark it as `Hold`: If Next `Step` have Same `Note` this `Note` will be Hold.
+   - Use `SHIFT + Left Mouse Click` on Recorded `Step` to Mark it for `Repeat \ Ratchet`: Dots will Appear on Top of `Step` representing Repeats to make (2-4 Times).
+   - Use `ALT + Left Mouse Click` on Recorded `Step` to Mark it for `Gate`: Dots will Appear on Bottom of `Step` representing Gate of Release (25-50-75%).
+   <img width="1546" height="824" alt="brave_screenshot" src="https://github.com/user-attachments/assets/0010915f-a0a3-43e3-8d2d-72b9d790f5c7" />
 
 ### License:
 
