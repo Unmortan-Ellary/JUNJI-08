@@ -71,11 +71,16 @@
     <img width="1550" height="830" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/51677ac3-87c4-4220-8d9d-df8420b7d2c4" />
 
 2. **Step Mods:**
-    - Use `Right Mouse Click` on Recorded `Step` to Mark it as `Rest` for skipping, you can also press `REST` Button durring `Step Recording`.
-    - Use `ALT + Right Mouse Click` on Recorded `Step` to Mark it as `Hold`: If Next `Step` have Same `Note` this `Note` will be Hold.
-    - Use `SHIFT + Left Mouse Click` on Recorded `Step` to Mark it for `Repeat \ Ratchet`: Dots will Appear on Top of `Step` representing Repeats to make (2-4 Times).
-    - Use `ALT + Left Mouse Click` on Recorded `Step` to Mark it for `Gate`: Dots will Appear on Bottom of `Step` representing Gate of Release (25-50-75%).
+    - `Rest`: Use `Right Mouse Click` on Recorded `Step` to Mark it as `Rest` for skipping, you can also press `REST` Button durring `Step Recording`.
+    - `Hold`: Use `ALT + Right Mouse Click` on Recorded `Step` to Mark it as `Hold`: If Next `Step` have Same `Note` this `Note` will be Hold.
+    - `Repeat`: Use `SHIFT + Left Mouse Click` on Recorded `Step` to Mark it for `Repeat \ Ratchet`: Dots will Appear on Top of `Step` representing Repeats to make (2-4 Times).
+    - `Gate`: Use `ALT + Left Mouse Click` on Recorded `Step` to Mark it for `Gate`: Dots will Appear on Bottom of `Step` representing Gate of Release (25-50-75%).
     <img width="1546" height="824" alt="brave_screenshot" src="https://github.com/user-attachments/assets/0010915f-a0a3-43e3-8d2d-72b9d790f5c7" />
+
+3. **Copy / Delete:**
+    - `Delete`: Use `CTRL + Right Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`: All `Steps` in this `Starting-Ending` Range will be `Deleted`.
+    - `Copy`: Use `CTRL + Left Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`, finally Select `Step` to `Paste` All `Steps` in Copied `Starting-Ending` Range.
+    <img width="1554" height="832" alt="brave_screenshot" src="https://github.com/user-attachments/assets/2ff35bf8-aa26-405f-8b71-81a419d85991" />
 
 ### License:
 
