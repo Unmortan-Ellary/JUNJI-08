@@ -78,8 +78,8 @@
     <img width="1546" height="824" alt="brave_screenshot" src="https://github.com/user-attachments/assets/0010915f-a0a3-43e3-8d2d-72b9d790f5c7" />
 
 3. **Copy / Delete:**
-    - `Delete`: Use `CTRL + Right Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`: All `Steps` in this `Starting-Ending` Range will be `Deleted`.
-    - `Copy`: Use `CTRL + Left Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`, finally Select `Step` to `Paste` All `Steps` in Copied `Starting-Ending` Range.
+    - `Delete`: Use `CTRL + Right Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`: All `Steps` in this `Starting-Ending` Range will be `Deleted`, can be Same Single `Step`.
+    - `Copy`: Use `CTRL + Left Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`, finally Select `Step` to `Paste` All `Steps` in Copied `Starting-Ending` Range, can be Same Single `Step`.
     <img width="1554" height="832" alt="brave_screenshot" src="https://github.com/user-attachments/assets/2ff35bf8-aa26-405f-8b71-81a419d85991" />
 
 ### License:
