@@ -68,7 +68,7 @@
     - Hold `Note` and ADD any amount of `Notes` to Record a Chord.
     - Press `Esc` or `Left Mouse Click` on Glowing `Step` to Cancel `Step Recording`.
     - Hover with a `Mouse Cursor` over `Step` to get its State Info.
-    <img width="1550" height="830" alt="brave_screenshot (1)" src="https://github.com/user-attachments/assets/51677ac3-87c4-4220-8d9d-df8420b7d2c4" />
+    <img width="1550" height="830" alt="brave_screenshot" src="https://github.com/user-attachments/assets/51677ac3-87c4-4220-8d9d-df8420b7d2c4" />
 
 2. **Step Mods:**
     - `Rest`: Use `Right Mouse Click` on Recorded `Step` to Mark it as `Rest` for skipping, you can also press `REST` Button durring `Step Recording`.
@@ -81,6 +81,15 @@
     - `Delete`: Use `CTRL + Right Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`: All `Steps` in this `Starting-Ending` Range will be `Deleted`, can be Same Single `Step`.
     - `Copy`: Use `CTRL + Left Mouse Click` on Recorded `Step` to Mark it as `Starting Point`, then Select `Step` as `Ending Point`, finally Select `Step` to `Paste` All `Steps` in Copied `Starting-Ending` Range, can be Same Single `Step`.
     <img width="1554" height="832" alt="brave_screenshot" src="https://github.com/user-attachments/assets/2ff35bf8-aa26-405f-8b71-81a419d85991" />
+
+4. **Automation Mods:**
+    - Use `Left Mouse Click` to Select any `Step` as your Starting Point.
+    - While `Step Recording` is active Tweak any number of Knobs / Sliders / Switches / Buttons and Press `Enter`.
+    - Corresponding `Automation Mods` will be created inside Selected `Step`, only final Tweaks are Saved.
+    - On `Play` this `Automation Mods` will be applied for single active `Step`, temporary overriding current settings.
+    - Hover with a `Mouse Cursor` over `Step` to get its State Info.
+    <img width="1550" height="830" alt="brave_screenshot" src="https://github.com/user-attachments/assets/30865a8b-eba4-4554-9ddd-81a65fe59d4f" />
+
 
 ### License:
 
