@@ -87,6 +87,7 @@
     - While `Step Recording` is active Tweak any number of Knobs / Sliders / Switches / Buttons and Press `Enter`.
     - Corresponding `Automation Mods` will be created inside Selected `Step`, only final Tweaks are Saved.
     - On `Play` this `Automation Mods` will be applied for single active `Step`, temporary overriding current settings.
+    - To `Delete` Saved `Automation Mods` Select Target `Step` and Press `Enter`, then Press `Enter` again.
     - Hover with a `Mouse Cursor` over `Step` to get its State Info.
     <img width="1550" height="830" alt="brave_screenshot" src="https://github.com/user-attachments/assets/30865a8b-eba4-4554-9ddd-81a65fe59d4f" />
 
