@@ -93,7 +93,7 @@
 
 5. **Arpeggiator:**
     - Supports classic `FALL`, `RISE`, `RISE-FALL`, `CUSTOM`, `RANDOMIZED` Modes.
-    - `CUSTOM` Mode supports ANY Amount of `Notes` in ANY Order, including repeated `Notes` in exact Order they were Recorded.
+    - `CUSTOM` Mode supports ANY Amount of `Notes` in ANY Order, including same repeated `Notes` as they were Recorded.
 
 ### License:
 
