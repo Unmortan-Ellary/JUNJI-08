@@ -91,6 +91,9 @@
     - Hover with a `Mouse Cursor` over `Step` to get its State Info.
     <img width="1550" height="830" alt="brave_screenshot" src="https://github.com/user-attachments/assets/30865a8b-eba4-4554-9ddd-81a65fe59d4f" />
 
+5. **Arpeggiator:**
+    - Supports classic `FALL`, `RISE`, `RISE-FALL`, `CUSTOM`, `RANDOMIZED` Modes.
+    - `CUSTOM` Mode supports ANY Amount of `Notes` in ANY Order, including repeated `Notes` in exact Order they were Recorded.
 
 ### License:
 
