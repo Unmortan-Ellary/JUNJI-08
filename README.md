@@ -97,7 +97,7 @@
   
 6. **Control Buttons:**
     - `Play`: Run the Playback of current Sequencer, by using `ALT + Left Mouse Click` both Sequencers will be Started at the same time.
-    - `Loop`: Activate Looping or Single-Shot this Sequencer.
+    - `Loop`: Activate Looping or Single-Shot for this Sequencer.
     - `Rest`: When `Step Recording` is active, adds `Rest` Mark for current active `Step`.
     - `Clear`: Reset the whole Sequencer to Empty State, use `ALT + Left Mouse Click` to Reset ONLY `Automation Mods` for this Sequencer.
     - `Sep \ Chain`: Run second Sequencer in `Parallel` Mode or in `Chain` Mode, `Chain` Mode turns both Sequencers into one big `256-Step` Sequencer.
